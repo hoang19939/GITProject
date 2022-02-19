@@ -5,4 +5,5 @@ Bước 4: Tạo file readme.md đưa một số nội dung vào
 Bước 5: Đẩy file README.md từ thư mục trên máy tính lên Github
 Bước 6: Tạo thư mục source, chứa file index.html, news.html. Đưa nội dung bất kỳ vào 2 file.
 Bước 7: Đẩy thư mục source chứa 2 file vừa tạo lên Github
+ thanks you
 
